@@ -1,0 +1,30 @@
+﻿  Graphs.cpp
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(51,52): warning C4244: '=': conversion from 'float' to 'unsigned long', possible loss of data
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(53,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(57,21): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(72,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(79,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(88,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(90,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(92,25): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(103,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(114,21): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(129,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(148,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(167,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(181,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(196,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(198,21): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(209,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(211,21): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(220,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(228,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(231,21): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(245,56): warning C4244: '=': conversion from 'float' to 'unsigned long', possible loss of data
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(247,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\DGraph.h(265,20): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\UGraph.h(65,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\Graphs\Graphs\UGraph.h(137,22): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\UGraph.h(189,23): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\Graphs\Graphs\Test.h(27,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  Graphs.vcxproj -> D:\Politechnika\AiS\Graphs\Debug\Graphs.exe
